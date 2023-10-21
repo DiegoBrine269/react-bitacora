@@ -137,7 +137,7 @@ export default function Calificacion() {
                             ref={ecoRef}
                             autoFocus
                             required
-                            onchange={handleChangeEco}
+                            onChange={handleChangeEco}
                         />
 
                         <label 

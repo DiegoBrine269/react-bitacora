@@ -14,7 +14,7 @@ import Historial from './views/Historial'
 
 const router = createBrowserRouter([
     {
-        path: '/',
+        path: '/react-bitacora/',
         element: <Layout/>, 
         children: [
             {
@@ -40,7 +40,7 @@ const router = createBrowserRouter([
     // },
 
     {
-        path: '/solicitud',
+        path: '/react-bitacora/solicitud',
         element: <Layout/>,
 
         children: [
@@ -60,7 +60,7 @@ const router = createBrowserRouter([
     },
 
     {
-        path: '/admin',
+        path: '/react-bitacora/admin',
         element: <AdminLayout/>, 
         children: [
             {
