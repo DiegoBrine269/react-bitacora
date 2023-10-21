@@ -7,7 +7,6 @@ import Login from './views/Login'
 import Registro from './views/Registro'
 import Opcion from './views/Opcion'
 import Formulario from './views/Formulario'
-import Admin from './views/Admin'
 import Calificacion from './views/Calificacion'
 import Historial from './views/Historial'
 
